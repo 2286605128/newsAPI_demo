@@ -15,13 +15,13 @@
    访问 http://你的域名/news/就可以看到内容了
 
 2. 引用api使用方法，将下列代码添加到你想显示的位置,参考**Textweb**文件
-    <script type="text/javascript" src="https://你的域名/news/?format=js&charset=utf-8"></script>
-    <div id="yiyan"><script>hitokoto()</script></div>
+    --<script type="text/javascript" src="https://你的域名/news/?format=js&charset=utf-8"></script>
+    <div id="yiyan"><script>hitokoto()</script></div>--
 
 ## 小程序 ##
   
 1. 小程序的后台获取数据方式get/post具体函数格式如下：wx.request({})，具体参数可以参考[小程序开发官方文档](https://developers.weixin.qq.com/miniprogram/dev/framework/ "微信小程序开发文档")
 2. 可代码参考**pages**文件，根据需求修改
 
-## 项目代码地址##
+## 项目代码地址 ##
 Github 码云
