@@ -1,0 +1,32 @@
+/* #yiyan{
+    border-left: 5px solid #0073d8;
+    border-right: 5px solid #0073d8;
+    background-color: #3288d31a;
+    padding: 10px;text-align: center;
+    color: #0073d8;
+    margin: 5px 0 5px 0;
+} */
+body{
+	background-color: #000;
+}
+.windows{
+	margin:10% auto auto auto;
+	width:560px;
+	background-color: #fff;
+	position: relative;
+	display: table;
+	border-radius: 5px;
+}
+.content{
+	margin:60px 50px 0px 50px;
+}
+.content p{
+	margin-top: 15px;
+}
+.hitokoto{
+	text-align:left;
+	font-size:1.5em;
+	text-indent: 1.2em;
+	letter-spacing: 1.3px;
+	font-weight: 500;
+}
