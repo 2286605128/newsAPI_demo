@@ -16,6 +16,7 @@
 
 2. 引用api使用方法，将下列代码添加到你想显示的位置,参考**Textweb**文件
 
+
 ```
 <script type="text/javascript" src="https://你的域名/news/?format=js&charset=utf-8"></script>
     <div id="yiyan"><script>hitokoto()</script></div>
@@ -27,4 +28,7 @@
 2. 可代码参考**pages**文件，根据需求修改
 
 ## 项目代码地址 ##
-[Github](https://github.com/2286605128/newsAPI_demo "Github项目地址") [码云](https://gitee.com/hzxCodecloud/palid_newsAPI-master "码云项目代码地址")
+
+[Github](https://github.com/2286605128/newsAPI_demo "Github项目地址")
+
+[码云](https://gitee.com/hzxCodecloud/palid_newsAPI-master "码云项目代码地址")
